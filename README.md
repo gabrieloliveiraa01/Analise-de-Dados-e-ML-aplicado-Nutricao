@@ -45,16 +45,16 @@ Cada arquivo contém informações sobre calorias, macronutrientes, vitaminas e 
 
 ### Visualizações
 1. **Distribuição de Calorias**
-   ![Histograma de Calorias](imagens/distribuicao_calorias.png)
+   ![Histograma de Calorias](imagens/Distribuição de calorias nos alimentos.png)
 
 2. **Correlação entre Nutrientes**
-   ![Heatmap de Correlação](imagens/correlacao_nutrientes.png)
+   ![Heatmap de Correlação](imagens/Correlacao entre nutrientes.png)
 
-3. **Relação entre Nutrientes por Categoria Nutricional**
-   ![Pairplot](imagens/pairplot_categoria.png)
+3. **Relação entre a Distribuição de Proteínas por Categoria Nutricional**
+   ![Pairplot](imagens/Distribuição de Proteínas por Categoria Nutricional.png)
 
 4. **Importância das Variáveis**
-   ![Importância das Variáveis](imagens/importancia_variaveis.png)
+   ![Importância das Variáveis](imagens/Importância das variáveis do modelo.png)
 
 ### Avaliação do Modelo
 - **Acurácia:** ~93,5%  
